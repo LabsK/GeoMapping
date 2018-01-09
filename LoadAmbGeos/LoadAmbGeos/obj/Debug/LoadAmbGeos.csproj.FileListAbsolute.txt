@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\bin\Debug\LoadAmbGeos.exe.config
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\obj\Debug\LoadAmbGeos.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\bin\Debug\LoadAmbGeos.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\bin\Debug\LoadAmbGeos.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\bin\Debug\System.Web.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\bin\Debug\System.Web.Extensions.dll
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\obj\Debug\LoadAmbGeos.exe
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\BI\LoadAmbGeos\LoadAmbGeos\obj\Debug\LoadAmbGeos.pdb
+C:\Users\Dell\Documents\GitHub\LabsK\GeoMapping\LoadAmbGeos\LoadAmbGeos\bin\Debug\LoadAmbGeos.exe.config
+C:\Users\Dell\Documents\GitHub\LabsK\GeoMapping\LoadAmbGeos\LoadAmbGeos\obj\Debug\LoadAmbGeos.exe
+C:\Users\Dell\Documents\GitHub\LabsK\GeoMapping\LoadAmbGeos\LoadAmbGeos\obj\Debug\LoadAmbGeos.pdb
